@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+    
+        
+}
+
+/*
+Box-sizing
+
+width + padding + border = actual width of an element
+height + padding + border = actual height of an element
+
+content-box: sale el elemento hijo del elemento padre
+border-box: no sale 
+
+*/
+/*
+VIEWPORT:En informática gráfica, el viewport es la porción del área
+visible de un plano y se utiliza como unidad de medida en CSS para crear 
+páginas web 100% responsivas. En otras palabras, el viewport varía de dispositivo a dispositivo
+
+*/
+
+/*
+<section> vs <div>
+
+La única diferencia entre el elemento DIV y el elemento SECTION es la semántica. Sirve para ayudar al SEO
+(poscionamiento en los buscadores).
+En cuanto a propiedades, funcionan casi igual, ambos son elementos de bloque y 
+no tienen ninguna diferencia. Pero sirve para hacer mucho mas optimo la
+diferenciación de secciones dentro de tu sitio.
+
+<section class="productos">
+    <article class="producto">
+
+      <!-- Aqui el codigo de tu producto -->
+
+    </article>
+  </section>
+  mas ordenado y mejor sentido semantico; igual que los div
+
+*/
