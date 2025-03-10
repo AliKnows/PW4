@@ -49,6 +49,8 @@ nav ul li{
 
 .title_1{
     color: #960258;
+   
+    font-family: "Krona One", sans-serif;
 
 }
 p{
@@ -62,7 +64,7 @@ p{
 
 }
 p .nombre_parrafo{
-    color: #fbff24;
+    color: #e6ac00;
     font-family: "Krona One", sans-serif;
 }
 
