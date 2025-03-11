@@ -101,3 +101,18 @@ a{
     display: flex;
     justify-content: space-between;
 }
+
+.enlaces_link{
+    padding: 21.5px 0;
+    width: 280px;
+    background-color: #960258;
+    text-align: center;
+    border-radius: 16px;
+    font-family:"Krona One", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+
+
+
+}
