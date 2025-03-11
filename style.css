@@ -74,7 +74,7 @@ a{
 .presentacion{
     display: flex; /* */
     align-items: center;
-    margin:5%;
+    margin:10%;
     justify-content: space-between;
 
 }
@@ -84,7 +84,7 @@ a{
  }
 .presentacion_contenido1{
     font-family: "Krona One", sans-serif;
-    width: 50%;
+    width: 615px;
     height: 50%;
 }
 .presentacion_contenido_Titulo1{
@@ -95,4 +95,9 @@ a{
 }
 .presentacion_contenido_texto{
     font-size: 20px ;
+}
+
+.presentacion_enlaces{
+    display: flex;
+    justify-content: space-between;
 }

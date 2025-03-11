@@ -49,3 +49,16 @@ diferenciación de secciones dentro de tu sitio.
   mas ordenado y mejor sentido semantico; igual que los div
 
 */
+
+
+
+/*
+.presentacion {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10%;
+}
+
+
+*/
