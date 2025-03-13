@@ -8,10 +8,12 @@ margin: 0;
 }
 */
 body{
+    zoom:80%;
     background-color: #060d20;
     color: rgb(255, 251, 247);
     height: 100vh; /*v= viewport h=altura que tenga al 100% */
     box-sizing: border-box; /*no sale del elemento*/
+    width: auto;
 }
 header{
     background-color: #0a1d53;
@@ -106,11 +108,14 @@ a{
 .presentacion_enlaces{
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    gap:32px;
 }
 
 .enlaces_link{
     padding: 35px 40px;
-    width: 600px;
+    width: 300px;
     background-color: #960258;
     text-align: center;
     border-radius: 16px;
