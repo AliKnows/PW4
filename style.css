@@ -113,10 +113,17 @@ a{
     gap:32px;
 }
 
+.titulo_redes{
+    font-family:"Krona One", sans-serif;
+    font-size: 24px;
+    
+
+}
 .enlaces_link{
-    padding: 35px 40px;
+    color: #f6f6f6;
+    padding: 35px 35px;
     width: 300px;
-    background-color: #960258;
+    background-color: none;
     text-align: center;
     border-radius: 16px;
     font-family:"Krona One", sans-serif;
@@ -125,7 +132,7 @@ a{
     text-decoration: none;
     margin-left: 30px;
     margin-right: 30px;
-
+    border:2px solid#960258;
 
 
 }
