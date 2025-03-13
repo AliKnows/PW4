@@ -9,12 +9,13 @@ margin: 0;
 */
 body{
     zoom:80%;
-    background-color: #060d20;
+    background-color: #071026;
     color: rgb(255, 251, 247);
     height: 100vh; /*v= viewport h=altura que tenga al 100% */
     box-sizing: border-box; /*no sale del elemento*/
     width: auto;
 }
+
 header{
     background:linear-gradient(#0a1d53,#060d20);
     margin:1%;
@@ -41,6 +42,7 @@ nav{
     border: 2px solid #f6f6f6;
     border-radius: 5%;
     opacity: 50%;
+    margin-right:30px;
 }
 nav ul li{
     list-style: none;
@@ -123,8 +125,8 @@ a{
 }
 .enlaces_link{
     color: #f6f6f6;
-    padding: 35px 35px;
-    width: 300px;
+    padding: 20px 35px;
+    width: 200px;
 
     background-color: none;
     text-align: center;
@@ -135,7 +137,7 @@ a{
     text-decoration: none;
     margin-left: 30px;
     margin-right: 30px;
-    border:2px solid#b40000;
+    border:2px solid#e4e000;
 
 
 }
